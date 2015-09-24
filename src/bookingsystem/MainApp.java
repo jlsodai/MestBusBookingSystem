@@ -1,5 +1,7 @@
 package bookingsystem;
 
+import java.util.Date;
+
 /**
  * Created by law on 9/24/15.
  */
