@@ -15,8 +15,5 @@ public class MainApp {
         /*
         This is a comment that I added to test auto update on repo
          */
-        /*
-        And this is another change
-         */
     }
 }
